@@ -1,0 +1,24 @@
+git init
+git status    
+
+git add <file-name>
+git add -A
+git commit -am "message"
+git push <url>
+
+git log
+
+*******************************************
+git clone <url>             //get a local copy of repository
+
+git add <file-name>
+git status
+git commit -m "message"  //files are still local to computer
+git push origin          //pushed to git hub
+git status
+
+
+
+
+
+
